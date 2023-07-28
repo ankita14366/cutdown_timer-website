@@ -1,0 +1,39 @@
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Acme&family=Courgette&family=Pangolin&display=swap');
+ 
+body {
+     
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20210204/pngtree-birthday-blue-gradient-balloon-three-dimensional-image_554535.jpg') no-repeat center center/cover;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 50px;
+    background: url("https://bpic.51yuansu.com/backgd/cover/00/05/36/5b64005f793de.jpg") no-repeat center center/cover ;
+
+}
+h1{
+    font-size: 2rem;
+    font-family: 'Acme', sans-serif;
+    margin-bottom: 0;
+}
+p{
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-family: 'Pangolin', cursive;
+
+}
+
+.countdown {
+    font-size: 24px;
+    margin-top: 20px;
+    font-family: 'Courgette', cursive;
+}
